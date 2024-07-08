@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nguyenvietkhiemm/WebReact/issues"
   },
-  "homepage": "https://github.com/nguyenvietkhiemm/WebReact#readme"
+  "homepage": "https://github.com/nguyenvietkhiemm/WebReact#readme",
+  "devDependencies": {
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
+  }
 }
